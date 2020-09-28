@@ -1,4 +1,6 @@
 # Si4735-radio-PCB-s-and-bandpass-filter
+NEWEST board is an Si4735 and Arduino pro mini( 3.2v 8 mHz) VERSION 2.  This has both I2C and SPI interfaces.  The board has been labeled better, with pro mini pin labels.
+Please refer to PU2CLR's GitHub for working software for  this board.
 Si4735 radio and bandpass filter
 The radio is a copy of Ricardo Carratti's high effective Si4735 radio with an OLED.  The Gerbers and BOM make it easy to fabricate this radio, although the Si4735 is difficult 
 solder due to the pin spacing and the caps and resistors are 0603 size.
